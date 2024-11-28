@@ -1,0 +1,19 @@
+# Ignore Python bytecode
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore dataset folders
+data/
+
+# Ignore model checkpoints
+output/
+*.pth
+
+# Ignore logs, temporary files
+*.log
+*.bak
+
+# Ignore environment files
+.venv
+.env

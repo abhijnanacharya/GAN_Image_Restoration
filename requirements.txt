@@ -1,0 +1,7 @@
+torch==2.0.1            # PyTorch for building and training the GAN
+torchvision==0.15.2     # For dataset loading and image transforms
+numpy==1.23.5           # For numerical computations
+matplotlib==3.7.1       # For plotting training progress
+Pillow==9.4.0           # For image saving and manipulation
+scipy==1.10.1           # For image processing and related utilities
+tqdm==4.66.1            # For progress bars during training
