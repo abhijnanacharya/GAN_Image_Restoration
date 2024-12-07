@@ -12,7 +12,6 @@ This project implements a Generative Adversarial Network (GAN) for image restora
 4. [Project Structure](#project-structure)
 5. [Usage](#usage)
 6. [Results](#results)
-7. [References](#references)
 
 ---
 
@@ -120,8 +119,10 @@ Run the training script:
 
 ## Results
 
-The GAN reconstructs high-quality images from degraded inputs. Example results:
+The GAN reconstructs high-quality images from degraded inputs. 
+
+Example results:
 
 | Low Resolution (Degraded) | Generated (Restored) | Ground Truth |
 | ------------------------- | -------------------- | ------------ |
-|                           |                      |              |
+|![Screenshot 2024-12-06 at 9 03 11 PM](https://github.com/user-attachments/assets/eea5ae9d-a04b-4701-bc1a-024598307a6a)|![Screenshot 2024-12-06 at 9 06 32 PM](https://github.com/user-attachments/assets/6d73cccf-f766-413c-a194-77bab350208b)|![Screenshot 2024-12-06 at 9 07 17 PM](https://github.com/user-attachments/assets/17c8d5f2-caa4-4bc9-8b7f-659d83f9bcc6)           |
